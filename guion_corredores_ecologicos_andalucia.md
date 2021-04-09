@@ -155,13 +155,14 @@ Una vez concluido el informe, deberás subirlo al moodle en formato **word**, **
 
 Abajo tienes los enlaces de descarga de las capas que necesitas para hacer este trabajo. 
 
-* [Capa de aptitud desde el punto de vista de la biodiversidad.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/criterios/apt_biodiv.tif)
-* [Capa de aptitud desde el punto de vista de la distancia a carreteras.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/criterios/apt_dist_carreteras.tif)
-* [Capa de aptitud desde el punto de vista de la distancia a espacios de la red Natura 2000.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/criterios/apt_dist_natura2000.tif)
-* [Capa de aptitud desde el punto de vista de la distancia a zonas urbanas.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/criterios/apt_dist_zona_urbana.tif)
-* [Capa de aptitud desde el punto de vista de la naturalidad](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/criterios/apt_naturalidad.tif)
-* [Capa de aptitud desde el punto de vista de la presencia de vías pecuarias.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/criterios/apt_vias_pecuarias.tif)
-* [Delimitación de los espacios de la Red Natura 2000 en Andalucía.](https://github.com/aprendiendo-cosas/teaching_task_MCE_ecological_corridors/blob/master/geoinfo/Red_Natura_2000_andalucia.zip?raw=true)
+* [Capa de aptitud desde el punto de vista de la biodiversidad.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/geoinfo/apt_biodiv.tif)
+* [Capa de aptitud desde el punto de vista de la distancia a carreteras.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/geoinfo/apt_dist_carreteras.tif)
+* [Capa de aptitud desde el punto de vista de la distancia a espacios de la red Natura 2000.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/geoinfo/apt_dist_natura2000.tif)
+* [Capa de aptitud desde el punto de vista de la distancia a zonas urbanas.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/geoinfo/apt_dist_zona_urbana.tif)
+* [Capa de aptitud desde el punto de vista de la naturalidad](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/geoinfo/apt_naturalidad.tif)
+* [Capa de aptitud desde el punto de vista de la presencia de vías pecuarias.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/geoinfo/apt_vias_pecuarias.tif)
+* [Delimitación de los espacios de la Red Natura 2000 en Andalucía.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/geoinfo/Red_Natura_2000_andalucia.zip)
+
 
 
 
@@ -184,12 +185,13 @@ En el moodle hay una rúbrica (pincha [aquí](https://es.wikipedia.org/wiki/R%C3
 
 ## Material útil para hacer la tarea
 
-* [*An integrated approach for studying the land suitability for ecological corridors through spatial multicriteria evaluations*](https://github.com/aprendiendo-cosas/teaching_task_MCE_ecological_corridors/blob/master/biblio/ecological_corridors_multicriteria.pdf). Artículo científco en el que se inspira este ejercicio.
+* [*An integrated approach for studying the land suitability for ecological corridors through spatial multicriteria evaluations*](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/biblio/ecological_corridors_multicriteria.pdf). Artículo científco en el que se inspira este ejercicio.
 
-* [*Natura 2000 sites, public forests and riparian corridors: The connectivity backbone of forest green infrastructure*](https://github.com/aprendiendo-cosas/teaching_task_MCE_ecological_corridors/blob/master/biblio/ecological_corridors_spain.pdf). Artículo científico en el que se habla de corredores ecológicos en España.
+* [*Natura 2000 sites, public forests and riparian corridors: The connectivity backbone of forest green infrastructure*](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/biblio/ecological_corridors_spain.pdf). Artículo científico en el que se habla de corredores ecológicos en España.
 
-* [*Multi-criteria decision analysis for nature conservation: A review of 20 years of applications*.](https://github.com/aprendiendo-cosas/teaching_task_MCE_ecological_corridors/blob/master/biblio/MCE_review.pdf) Revisión sobre el uso de la técnica de evaluación multicriterio aplicada a cuestiones ambientales.
+* [*Multi-criteria decision analysis for nature conservation: A review of 20 years of applications*.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/biblio/MCE_review.pdf) Revisión sobre el uso de la técnica de evaluación multicriterio aplicada a cuestiones ambientales.
 
 * [Video](https://youtu.be/GIh5lWzQV_k) de una grabación de clase del curso 2019-2020 en la que se describe el contenido del ejercicio.
 
   
+
