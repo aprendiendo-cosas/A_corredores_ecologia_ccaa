@@ -1,10 +1,9 @@
 # Instrucciones para realizar el ejercicio denominado "caracterización de la conectividad de los ecosistemas andaluces con la Red Natura 2000"
 
 
-> + **_Versión_**: 0
+> + **_Versión_**: 1
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (aprendiendo-cosas@uco.es)
-> + **_Nombre release en Github_**: corredores_ecologicos_v0_2019_2020_CCAA
 
 
 
