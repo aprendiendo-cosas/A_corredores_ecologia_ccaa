@@ -3,7 +3,7 @@
 
 > + **_Versión_**: 1
 > + **_Asignatura (grado)_**: Ecología (CCAA)
-> + **_Autor_**: Curro Bonet-García (aprendiendo-cosas@uco.es)
+> + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 
 
 
