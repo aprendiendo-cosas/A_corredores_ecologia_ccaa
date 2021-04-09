@@ -155,13 +155,12 @@ Una vez concluido el informe, deberás subirlo al moodle en formato **word**, **
 
 Abajo tienes los enlaces de descarga de las capas que necesitas para hacer este trabajo. 
 
-* [Proyecto de QGIS con servicios WMS a varias ortofotos de Andalucía.](https://github.com/aprendiendo-cosas/teaching_task_MCE_ecological_corridors/blob/master/geoinfo/ortofotos_wms.qgs.zip?raw=true) Es un archivo comprimido. Tendrás que descomprimirlo para ver su contenido.
-* [Capa de aptitud desde el punto de vista de la biodiversidad.](https://github.com/aprendiendo-cosas/teaching_task_MCE_ecological_corridors/blob/master/geoinfo/criterios/apt_biodiv.tif?raw=true)
-* [Capa de aptitud desde el punto de vista de la distancia a carreteras.](https://github.com/aprendiendo-cosas/teaching_task_MCE_ecological_corridors/blob/master/geoinfo/criterios/apt_dist_carreteras.tif?raw=true)
-* [Capa de aptitud desde el punto de vista de la distancia a espacios de la red Natura 2000.](https://github.com/aprendiendo-cosas/teaching_task_MCE_ecological_corridors/blob/master/geoinfo/criterios/apt_dist_natura2000.tif?raw=true)
-* [Capa de aptitud desde el punto de vista de la distancia a zonas urbanas.](https://github.com/aprendiendo-cosas/teaching_task_MCE_ecological_corridors/blob/master/geoinfo/criterios/apt_dist_zona_urbana.tif?raw=true)
-* [Capa de aptitud desde el punto de vista de la naturalidad](https://github.com/aprendiendo-cosas/teaching_task_MCE_ecological_corridors/blob/master/geoinfo/criterios/apt_naturalidad.tif?raw=true)
-* [Capa de aptitud desde el punto de vista de la presencia de vías pecuarias.](https://github.com/aprendiendo-cosas/teaching_task_MCE_ecological_corridors/blob/master/geoinfo/criterios/apt_vias_pecuarias.tif?raw=true)
+* [Capa de aptitud desde el punto de vista de la biodiversidad.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/criterios/apt_biodiv.tif)
+* [Capa de aptitud desde el punto de vista de la distancia a carreteras.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/criterios/apt_dist_carreteras.tif)
+* [Capa de aptitud desde el punto de vista de la distancia a espacios de la red Natura 2000.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/criterios/apt_dist_natura2000.tif)
+* [Capa de aptitud desde el punto de vista de la distancia a zonas urbanas.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/criterios/apt_dist_zona_urbana.tif)
+* [Capa de aptitud desde el punto de vista de la naturalidad](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/criterios/apt_naturalidad.tif)
+* [Capa de aptitud desde el punto de vista de la presencia de vías pecuarias.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/main/criterios/apt_vias_pecuarias.tif)
 * [Delimitación de los espacios de la Red Natura 2000 en Andalucía.](https://github.com/aprendiendo-cosas/teaching_task_MCE_ecological_corridors/blob/master/geoinfo/Red_Natura_2000_andalucia.zip?raw=true)
 
 
