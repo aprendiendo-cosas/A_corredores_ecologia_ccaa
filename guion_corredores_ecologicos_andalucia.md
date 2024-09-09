@@ -1,7 +1,7 @@
 # Instrucciones para realizar el ejercicio denominado "caracterización de la conectividad de los ecosistemas andaluces con la Red Natura 2000"
 
 
-> + **_Versión_**: 1
+> + **_Versión_**: 2023-2024
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 
@@ -17,7 +17,7 @@ Este ejercicio tiene los siguientes objetivos competenciales y operacionales:
    +    Mejorar la destreza de los estudiantes en el manejo de herramientas informáticas.
    +    Evocar el conocimiento previamente adquirido sobre sistemas de información geográfica.
    +    Reflexionar sobre la importancia de incorporar a la ecología aspectos relacionados con el uso que hace el ser humano del territorio con objeto de mejorar nuestra comprensión del sistema en su conjunto.
-   +    Transferir el conocimiento adquirido en un ejemplo concreto (competencia intraespecífica) a otro diferente.
+   +    Transferir el conocimiento adquirido en un ejemplo concreto (práctica sobre competencia intraespecífica en pinares de repoblación) a otro diferente.
  + Disciplinares: Se trata de objetivos relacionados con competencias propios de la ecología. 
     +    Adquirir información sobre cómo se distribuye la biodiversidad en Andalucía.
     +    Adquirir información sobre la distribución y tamaño de los espacios naturales protegidos de Andalucía.
@@ -131,22 +131,22 @@ Una vez estudiados los criterios a utilizar en este trabajo deberás de:
 |    0    |   0.5   |   0   |
 |0.5|1|1|
 
-4. Reflexiona sobre los resultados obtenidos. Imagina que tienes que tomar la decisión de definir 3 corredores ecológicos en Andalucía y los resultados del análisis anterior son la única información que tienes para adoptarla. Puedes seleccionar zonas candidatas a declararse como corredores ecológicos a partir de los mapas obtenidos en los dos escenarios. Es decir, puedes considerar que los criterios para construir corredores ecológicos cambian según la zona. No es lo mismo definir corredores ecológicos en Sierra Morena que en Cabo de Gata, por ejemplo. Una vez hecha la selección, deberás de describir cada zona de la siguiente forma:
+4. Reflexiona sobre los resultados obtenidos. Imagina que tienes que tomar la decisión de definir 2 corredores ecológicos en Andalucía y los resultados del análisis anterior son la única información que tienes para adoptarla. Puedes seleccionar zonas candidatas a declararse como corredores ecológicos a partir de los mapas obtenidos en los dos escenarios. Es decir, puedes considerar que los criterios para construir corredores ecológicos cambian según la zona. No es lo mismo definir corredores ecológicos en Sierra Morena que en Cabo de Gata, por ejemplo. Una vez hecha la selección, deberás de describir cada zona de la siguiente forma:
    * Nombre del corredor: invéntate un nombre para el corredor que aluda a sus características principales. Ej. corredor entre Sierra Morena y la Subbética cordobesa.
-   * Espacios protegidos que conecta: Esta capa vectorial contiene todos los espacios de la Red Natura 2000. Puedes consultar el nombre de cada uno de ellos en QGIs. Justifica por qué, según tu criterio es importante conectar estos espacios protegidos.
+   * Espacios protegidos que conecta: Esta capa vectorial contiene todos los espacios de la Red Natura 2000. Puedes consultar el nombre de cada uno de ellos en QGIS. Justifica por qué, según tu criterio es importante conectar estos espacios protegidos.
    * Características de la zona propuesta como corredor: indica cuáles son las principales características de la zona seleccionada atendiendo a los criterios utilizados en el análisis. Por ejemplo, la zona XX se caracteriza por tener una alta biodiversidad y también por tener muchas vías pecuarias. Esto hace que ya tenga funcionalidad como corredor ecológico. O también, la zona YY tiene muchas vías pecuarias, pero también está cerca de núcleos urbanos. Es decir, tiene mucha potencialidad como corredor, pero no es funcional aún. Debería de restaurarse el funcionamiento ecosistémico, etc. Para apoyar tu caracterización puedes incluir imágenes de la zona en cuestión. Bien imágenes aéreas o bien fotos de campo.
 
 
 
 ## Material a entregar
 
-Una vez que hayas hecho lo anterior, deberás de preparar un informe que contenga la siguiente información:
+Una vez que hayas hecho lo anterior, deberás de preparar un breve informe (2-3 páginas) que contenga la siguiente información:
 
 * Justificación y descripción de los escenarios de pesos que has utilizado y las variables que has tenido en cuenta.
 * Una ficha descriptiva de cada uno de los 3 corredores que hayas propuesto. Haz referencia en la ficha al escenario que ha permitido la "creación" del corredor seleccionado.
 * Análisis crítico: indica qué variables echas en falta o qué aspectos de la metodología utilizada son mejorables según tu criterio. 
 
-Una vez concluido el informe, deberás subirlo al moodle en formato **word**, **libre office** o equivalente. No en formato **pdf**, por favor.
+Una vez concluido el informe, deberás subirlo aquí en formato **word**, **libre office** o equivalente. No en formato **pdf**, por favor.
 
 
 
@@ -154,32 +154,20 @@ Una vez concluido el informe, deberás subirlo al moodle en formato **word**, **
 
 Abajo tienes los enlaces de descarga de las capas que necesitas para hacer este trabajo. 
 
-* [Capa de aptitud desde el punto de vista de la biodiversidad.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/2020-2021/geoinfo/apt_biodiv.tif)
-* [Capa de aptitud desde el punto de vista de la distancia a carreteras.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/2020-2021/geoinfo/apt_dist_carreteras.tif)
-* [Capa de aptitud desde el punto de vista de la distancia a espacios de la red Natura 2000.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/2020-2021/geoinfo/apt_dist_natura2000.tif)
-* [Capa de aptitud desde el punto de vista de la distancia a zonas urbanas.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/2020-2021/geoinfo/apt_dist_zona_urbana.tif)
-* [Capa de aptitud desde el punto de vista de la naturalidad](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/2020-2021/geoinfo/apt_naturalidad.tif)
-* [Capa de aptitud desde el punto de vista de la presencia de vías pecuarias.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/2020-2021/geoinfo/apt_vias_pecuarias.tif)
++ Factores naturales:
+  * [Capa de aptitud desde el punto de vista de la biodiversidad.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/2020-2021/geoinfo/apt_biodiv.tif)
+  * [Capa de aptitud desde el punto de vista de la distancia a espacios de la red Natura 2000.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/2020-2021/geoinfo/apt_dist_natura2000.tif)
+  * [Capa de aptitud desde el punto de vista de la naturalidad](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/2020-2021/geoinfo/apt_naturalidad.tif)
+
+* Factores antrópicos:
+  * [Capa de aptitud desde el punto de vista de la distancia a carreteras.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/2020-2021/geoinfo/apt_dist_carreteras.tif)
+  * [Capa de aptitud desde el punto de vista de la distancia a zonas urbanas.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/2020-2021/geoinfo/apt_dist_zona_urbana.tif)
+  * [Capa de aptitud desde el punto de vista de la presencia de vías pecuarias.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/2020-2021/geoinfo/apt_vias_pecuarias.tif)
+
 * [Delimitación de los espacios de la Red Natura 2000 en Andalucía.](https://github.com/aprendiendo-cosas/A_corredores_ecologia_ccaa/raw/2020-2021/geoinfo/Red_Natura_2000_andalucia.zip)
 
 
 
-
-## Criterios de evaluación
-
-En el moodle hay una rúbrica (pincha [aquí](https://es.wikipedia.org/wiki/R%C3%BAbrica_(docencia)) si no sabes lo que es una rúbrica) que describe de manera detallada los criterios de calificación. También puedes verlos en la siguiente tabla:
-
-
-| Criterio de evaluación                                       | 0 puntos        | 1 punto                                                      | 2 puntos                                                     | 3 puntos                                                     | 4 puntos                                                     | 5 puntos                                                     |
-| ------------------------------------------------------------ | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Selección de variables**: Se refiere a si las variables elegidas para tu análisis se ajustan a la lógica del problema planteado. | No entrega nada | El conjunto de variables elegido no se alinea con el objetivo del trabajo. | No se tienen en cuenta los dos grupos de variables propuestas. | Incluye todas las variables sin justificar la decisión.      | Excelente selección de variables.                            | Además de lo anterior, incorpora variables nuevas no propuestas inicialmente en el ejercicio. |
-| **Justificación de las decisiones adoptadas**: Se refiere sobre todo a la combinacion de pesos en los dos escenarios requeridos y a la selección de corredores. | No entrega nada | No justifica en ningún caso los pesos adoptados ni las zonas propuestas como corredores ecológicos. | La justificación no se alinea con nada conocido (por este humilde profesor) | Buena parte de las decisiones adoptadas están correctamente justificadas. | Tanto tu selección de pesos como la propuesta de zonas de corredores es muy convincente. | No estoy en absoluto de acuerdo con lo que propones, pero está tan bien justificado que me has convencido. |
-| **Adecuación**: Este criterio evalúa en qué medida los conceptos mostrados en el trabajo están relacionados con la biogeografía de islas. | No entrega nada | No se observa nada relacionado con la biogeografía de islas. | Los conceptos teóricos en los que se basa el ejercicio aparecen tangencialmente. | Incorpora adecuadamente la biogeografía de islas y la fragmentación. | Además de lo anterior, mencionas adecuadamente la interferencia de las actividades humanas con las redes de "infraestructuras naturales" | Excelente integración de marcos conceptuales diferentes. Además de los requeridos has incluido otros. |
-| **Legibilidad:** hace referencia a lo bien escrito que está el texto y a su legibilidad | No entrega nada | Apenas entiendo lo que has escrito                           | He tenido que reinterprestar casi cada frase para entenderlo | Se entiende bien todo, pero el texto no es fluido            | Muy buena redacción. La lectura fluye fácilmente, cual novela. | Impecable estilo de escritura.                               |
-
-
-
-**PONER EN LA RÚBRICA ALGO PARA VALORAR LA PRESENTACIÓN Y LOS CRITERIOS ESTÉTICOS.**
 
 **incluir una VARIAble que tenga en cuenta el tamaño de las islas (ENPs). Quizás esto les ayude a distinguir mejor los factores implicados en la biogeografía de islas.**
 
